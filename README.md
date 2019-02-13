@@ -9,7 +9,7 @@
 + axios
 + element-ui
 
-[点击预览](https://besswang.gith/html/index.html)
+[点击预览](https://besswang.github.io/hn_bussiness/index.html#/)
 
 ## Build Setup
 
