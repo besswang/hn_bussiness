@@ -208,7 +208,9 @@
       ></vdetail>
     </el-dialog>
 <!-- 商品预览-end -->
-<!-- 商品规格-start -->
+<!-- 商品规格-start-sku的组件 -->
+<!-- 参考:https://github.com/wojianishanghaojiugoujia/vue-sku-component -->
+<!-- 参考:https://github.com/rossroma/vue-sku -->
     <transition name="slide-fade">
       <addlist
       :spcShow="spcShow"
