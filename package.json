@@ -11,7 +11,7 @@
     "test": "node build/test.js"
   },
   "dependencies": {
-    "axios": "^0.17.1",
+    "axios": "^0.21.1",
     "echarts": "^4.0.2",
     "element-ui": "^2.0.11",
     "jquery": "^3.5.0",
