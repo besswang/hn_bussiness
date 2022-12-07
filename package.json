@@ -16,7 +16,7 @@
     "element-ui": "^2.0.11",
     "jquery": "^3.5.0",
     "lodash": "^4.17.19",
-    "qs": "^6.5.1",
+    "qs": "^6.5.3",
     "v-distpicker": "^1.0.16",
     "vue": "^2.5.2",
     "vue-quill-editor": "^3.0.6",
